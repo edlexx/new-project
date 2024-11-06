@@ -5,5 +5,4 @@ gf
 rgbstbtsbb
 bt
 
-bt
-tbr
+
